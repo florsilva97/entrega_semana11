@@ -1,0 +1,12 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+label{
+    font-size:larger;
+}
+
+#input-buscador{
+    padding: 5px;
+    margin: 5px;
+}
